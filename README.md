@@ -34,6 +34,7 @@
    
 <h4>(02/2023) 1.5.1 - Nova feature:</h4>
    <p>  - Adicionado botão para <b>categoria de perigos</b>, com informação já também salvando e podendo ser aberta </p>
+   <p>  - <b>Complete</b> automático de nome de pessoas e equipamentos </p>
    
   
    
