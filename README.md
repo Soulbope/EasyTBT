@@ -30,7 +30,10 @@
    <p>  - Adicionado checkbox para verificar se <b>Existe risco a ergonomia desfavorável</b></p>
    
 <h4>(02/2023) 1.4.1 - Nova feature:</h4>
-   <p>  - Adicionado input <b>Estação de lavar olhos</b></p> </p>
+   <p>  - Adicionado input <b>Estação de lavar olhos</b> </p>   
+   
+<h4>(02/2023) 1.5.1 - Nova feature:</h4>
+   <p>  - Adicionado botão para <b>categoria de perigos</b>, com informação já também salvando e podendo ser aberta </p>
    
   
    
