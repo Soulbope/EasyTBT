@@ -36,6 +36,13 @@
    <p>  - Adicionado botão para <b>categoria de perigos</b>, com informação já também salvando e podendo ser aberta </p>
    <p>  - <b>Complete</b> automático de nome de pessoas e equipamentos </p>
    
+<h4>(05/2023) 1.6.2 - Nova feature:</h4>
+   <p>  - Alterado template para nova TBT </p>
+   <p>  - Alterado layout para nova TBT </p>
+   <p>  - "Lembra" da última alteração e já abre na próxima vez com último save</p>
+   <p>  - Bug com o antivírus resolvido </p>
+   
+   
   
    
  
